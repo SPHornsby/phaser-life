@@ -14,4 +14,4 @@ run `npm install` to load dependencies.
 
 `npm run watch` will run the Browserify watcher.
 
-`npm run start` launches the Express server (on port 8000)
+`npm run start` builds the app and launches the Express server (on port 8000)
